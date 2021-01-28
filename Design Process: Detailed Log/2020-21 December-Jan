@@ -1,0 +1,24 @@
+(12/26) 
+- Did projects 1 and 2 from the arduino book. It was a simple series and parallel circuit and a flashing lights circuit with simple programs respectively.
+
+(12/27) 
+- Did projects 3 and 4 from the arduino book. It was a temperature sensor system turning on lights and respectively.
+
+(1/6) 
+- I started making my own project where it cycles between two different types of led flashing patterns after pushing a button
+    - It is only running one cycle and not the other and I’m not too sure why
+      - Missed another equal sign and added an extra ; to the else
+    - Now my arduino isn’t working correctly
+      - Lmao wrong rail
+    - That took so much time and i’m uncomfortable knowing that
+    - I want to make it so that its like a switch and I want to add some sort of analog input
+
+(1/9) 
+- I realized I don’t know enough of the basics to make an actually compelling project
+  - I just practiced a bit of programming without heavily relying on looking off a reference
+  - I want to make a push button function like a toggle switch but Idk whats happening program wise
+  - Just started making the circuit for project 5
+
+(1/11) 
+- I finished the circuit and code for project 5
+  - It reads the position of a potentiometer and translates that into the position the motor should move
